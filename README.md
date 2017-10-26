@@ -60,5 +60,10 @@ void main() {
   
 } 
  
+int x; // 3 digit number
 
+int A = (x / 250);
+int B = (x / 20);
+int C = (x % 5)
 
+bool ascending = A != B && B != C; 
